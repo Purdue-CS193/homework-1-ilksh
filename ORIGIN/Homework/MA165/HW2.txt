@@ -1,0 +1,7 @@
+This is the first homework in MA 165! 
+
+2 + 2 = 4
+
+3 * 2 = 6
+
+21 / 7 = 3
