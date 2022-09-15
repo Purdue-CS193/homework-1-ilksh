@@ -39,7 +39,9 @@ ls
 # Task 12
 : '
 Type your vim/nano customizations below:
-
+let mapleader=',' 
+set autoread  
+set nobackup noswapfile nowritebackup    
 
 
 '
