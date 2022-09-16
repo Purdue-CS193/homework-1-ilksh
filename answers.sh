@@ -10,19 +10,19 @@ mv Homework/MA165/HW2.txt HW1.txt
 rm Memes/SpongeBob/money.jpeg
 
 # Task 3
-mv fafs/jpg ~/Memes/SpongeBob
+mv fafs/jpg Memes/SpongeBob
 
 # Task 4
-rm -r ~/Homework/CS191
+rm -r Homework/CS191
 
 # Task 5
 mkdir Programs/C++
 
 # Task 6
-mv ~/Programs/Age.cpp ~/C++
+mv Programs/Age.cpp C++
 
 # Task 7
-cp ~/.Programs/Age.cpp ~/C++
+cp Programs/Age.cpp C++
 
 # Task 8
 mv Programs/Count.c Programs/Goodbye.c Programs/C
