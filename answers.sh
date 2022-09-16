@@ -4,13 +4,13 @@
 cd ORIGIN
 
 # Task 1 
-mv ~/.Homework/MA165/HW2.txt ~/HW1.txt
+mv Homework/MA165/HW2.txt HW1.txt
 
 # Task 2
-rm ~/Memes/SpongeBob/money.jpeg
+rm Memes/SpongeBob/money.jpeg
 
 # Task 3
-mv ~/fafs/jpg ~/Memes/SpongeBob
+mv fafs/jpg ~/Memes/SpongeBob
 
 # Task 4
 rm -r ~/Homework/CS191
